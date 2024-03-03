@@ -3,6 +3,6 @@
 <h1>Mostafa is a successful Person</h1>
 <p>Mostafa is a Great Engineer</p>
 <p>Mostafa is a Great Developer</p>
-<p>Mostafa is a Handsome Man</p> 
+<p>Mostafa is a Handsome guy</p> 
 </body>
 </html>
